@@ -1,0 +1,30 @@
+.image{
+    text-align: center;
+}
+.box{
+    background-color: #EEEEEE;
+    margin-left: 80px;
+    margin-right: 80px;
+    border: 0; 
+}
+.mr{
+    margin-bottom: 0%;
+}
+.sd-box{
+    margin-left: 250px;
+    float: left;
+    margin-right:280px;
+}
+
+.t-box{
+   font-size: small;
+   float: left;
+}
+.f-box{
+    margin-left: 250px;
+    padding-left: 250px;
+    
+}
+.b{
+    float:left;
+}

@@ -1,0 +1,1 @@
+Bu çalışmada Google 1998 yılı kullandığı sayfa yer almaktadır.
